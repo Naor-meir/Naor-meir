@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark"/>
 </p>
 
 #### 🗃️ Databases

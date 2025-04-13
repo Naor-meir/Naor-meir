@@ -42,6 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Jira-Software-Logo.png" height="40" alt="Jira"/>
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark"/>
 </p>
 
 #### 🗃️ Databases
@@ -75,3 +83,10 @@
 
 - 🎮 [Arkanoid Game](https://github.com/Naor-meir/Arkanoid-Game-)  
   Java-based classic game with multiple levels and power-ups.
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out for collaborations, discussions, or inquiries.  
+You can also connect with me on LinkedIn: [Naor Meir Dahan](https://www.linkedin.com/in/naor-meir-dahan/)

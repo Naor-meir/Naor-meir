@@ -80,7 +80,6 @@
 - 🧬 [SIMD Intrinsics](https://github.com/Naor-meir/Simd-Intrinsics)  
   SSE4.2-based implementations for fast string operations and Hamming distance.
   
-  Java-based classic game with multiple levels and power-ups.
 
 ---
 

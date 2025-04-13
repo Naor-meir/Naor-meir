@@ -10,6 +10,32 @@
 
 ---
 
+### 💡 Interests
+
+- 🧩 Cryptographic protocols (ZKPs, MPC, PQC)
+- 🔐 Vulnerability research, exploit development & system security
+- 📊 Algorithm design, optimization and complexity analysis
+- 🔢 Theoretical mathematics and problem-solving
+- 🧮 Parallel computing and SIMD performance tuning
+- 🧵 Low-level programming and memory manipulation
+- 💻 Operating systems fundamentals
+- 🧬 Compilers and code generation
+
+---
+
+
+---
+
+### 🧪 Selected Projects
+
+- 🔍 [DNS-like Resolver](https://github.com/Naor-meir/DNS-Resolver) – Custom UDP-based resolver with caching & A/NS record handling  
+- 💥 [SIMD Intrinsics](https://github.com/Naor-meir/Simd-Intrinsics) – SSE4.2-based implementations for string length & Hamming distance  
+- 📐 [Expression Tree Evaluator](https://github.com/Naor-meir/expression-tree-evaluator) – Object-oriented parser & evaluator for mathematical expressions  
+- 🔎 [Parallel Counting Sort](https://github.com/Naor-meir/Parallel-Counting-Sort) – Parallelized implementation of counting sort with OpenMP and prefix sum
+- 🌐 [Custom HTTP Server](https://github.com/Naor-meir/HTTP-Server) – A lightweight HTTP/1.1 server in Python with persistent connections and static file handling
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Programming Languages
@@ -42,29 +68,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
 </p>
-
----
-
-### 💡 Interests
-
-- 🧩 Cryptographic protocols (ZKPs, MPC, PQC)
-- 🔐 Vulnerability research, exploit development & system security
-- 📊 Algorithm design, optimization and complexity analysis
-- 🔢 Theoretical mathematics and problem-solving
-- 🧮 Parallel computing and SIMD performance tuning
-- 🧵 Low-level programming and memory manipulation
-- 💻 Operating systems fundamentals
-- 🧬 Compilers and code generation
-
----
-
-
----
-
-### 🧪 Selected Projects
-
-- 🔍 [**DNS-like Resolver**](https://github.com/Naor-meir/DNS-Resolver) – Custom UDP-based resolver with caching & A/NS record handling  
-- 💥 [**SIMD Intrinsics**](https://github.com/Naor-meir/Simd-Intrinsics) – SSE4.2-based implementations for string length & Hamming distance  
-- 📐 [**Expression Tree Evaluator**](https://github.com/Naor-meir/expression-tree-evaluator) – Object-oriented parser & evaluator for mathematical expressions  
-- 🔎 [**Parallel Counting Sort**](https://github.com/Naor-meir/Parallel-Counting-Sort) – Parallelized implementation of counting sort with OpenMP and prefix sum
-- 🌐 [**Custom HTTP Server**](https://github.com/Naor-meir/HTTP-Server) – A lightweight HTTP/1.1 server in Python with persistent connections and static file handling

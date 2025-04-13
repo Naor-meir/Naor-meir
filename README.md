@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <span style="display:inline-block; vertical-align:middle; margin-left:10px; font-weight:bold; font-size:16px;">🛠️ Assembly</span>
+  <span style="display:inline-block; vertical-align:middle; margin-left:15px; font-weight:900; font-size:20px;">🛠️ Assembly</span>
 </p>
 
 #### 🧰 Tools & Platforms

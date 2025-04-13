@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <img src="https://github.com/Naor-meir/Naor-meir/blob/main/asm_x86_chip_boxed(1).png?raw=true" height="40" alt="Assembly x86"/>
+  <img src="https://github.com/Naor-meir/Naor-meir/blob/main/asm_x86_chip_boxed (1).png?raw=true" height="40" alt="Assembly x86"/>
 </p>
 
 #### 🧰 Tools & Platforms

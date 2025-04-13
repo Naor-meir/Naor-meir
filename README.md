@@ -42,14 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Jira-Software-Logo.png" height="40" alt="Jira"/>
-</p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" height="30" alt="Jira"/>
 </p>
 
 #### 🗃️ Databases
@@ -81,12 +74,15 @@
 - 🌐 [DNS-Like Server System](https://github.com/Naor-meir/DNS-Like-Server-System)  
   Simulated DNS system with resolver, server, and cache.
 
-- 🎮 [Arkanoid Game](https://github.com/Naor-meir/Arkanoid-Game-)  
+- 🎮 [Arkanoid Game](https://github.com/Naor-meir/Arkanoid-Game-)
+  Java-based classic game with multiple levels and power-ups.
+
+- 🧬 [SIMD Intrinsics](https://github.com/Naor-meir/Simd-Intrinsics)  
+  SSE4.2-based implementations for fast string operations and Hamming distance.
+  
   Java-based classic game with multiple levels and power-ups.
 
 ---
 
-### 📫 Let's Connect!
-
-Feel free to reach out for collaborations, discussions, or inquiries.  
-You can also connect with me on LinkedIn: [Naor Meir Dahan](https://www.linkedin.com/in/naor-meir-dahan/)
+📬 **Feel free to reach out for collaboration, interesting discussions or opportunities.**  
+You can always contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naor-meir-dahan/)

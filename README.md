@@ -68,3 +68,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
 </p>
+---
+
+### 📚 Explore My Work
+
+📁 [All My Repositories](https://github.com/Naor-meir?tab=repositories)
+
+#### 🌟 Featured Projects
+- 🧮 [Advanced Math Expression Calculator](https://github.com/Naor-meir/Advanced-Math-Expression-Calculator) – Evaluate complex math expressions using OOP-based Java parser
+- 🌐 [HTTP TCP Server & Client](https://github.com/Naor-meir/HTTP-TCP-Server-Client) – TCP socket-based HTTP server-client with persistent connections
+- 🌐 [DNS-Like Server System](https://github.com/Naor-meir/DNS-Like-Server-System) – Simulated DNS system with resolver, server, and cache
+- 🎮 [Arkanoid Game](https://github.com/Naor-meir/Arkanoid-Game-) – Java-based classic game with multiple levels and power-ups

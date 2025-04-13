@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Assembly_language_icon.png" height="40" alt="Assembly"/>
+  <span style="font-size: 1.2em;">🛠️ Assembly</span>
 </p>
 
 #### 🧰 Tools & Platforms

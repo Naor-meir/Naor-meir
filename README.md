@@ -52,6 +52,9 @@
 - 📊 Algorithm design, optimization and complexity analysis
 - 🔢 Theoretical mathematics and problem-solving
 - 🧮 Parallel computing and SIMD performance tuning
+- 🧵 Low-level programming and memory manipulation
+- 💻 Operating systems fundamentals
+- 🧬 Compilers and code generation
 
 ---
 
@@ -65,7 +68,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<!-- GitHub Stats removed -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naor-dahan&show_icons=true&theme=github_dark" height="165"/>
@@ -83,3 +86,16 @@ I'm always open to exciting collaborations in the fields of **cybersecurity**, *
 Feel free to explore my repositories or connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naor-meir-dahan/)
+
+---
+
+### 📚 Explore My Work
+
+📁 [All My Repositories](https://github.com/Naor-meir?tab=repositories)
+
+#### 🌟 Featured Projects
+- 🔍 [DNS-like Resolver](https://github.com/Naor-meir/DNS-Resolver)
+- 💥 [SIMD Intrinsics](https://github.com/Naor-meir/Simd-Intrinsics)
+- 🧾 [WhatsApp Receipt Bot](https://github.com/Naor-meir/whatsapp-receipt-bot)
+- 🛡️ [Blind SQLi Toolkit](https://github.com/Naor-meir/blind-sqli-toolkit)
+- 📐 [Expression Tree Evaluator](https://github.com/Naor-meir/expression-tree-evaluator)

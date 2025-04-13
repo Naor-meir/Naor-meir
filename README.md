@@ -58,44 +58,13 @@
 
 ---
 
+
+---
+
 ### 🧪 Selected Projects
 
-- 🔍 **DNS-like Resolver** – Custom UDP-based resolver with caching & A/NS record handling  
-- 💥 **SIMD Intrinsics** – SSE4.2-based implementations for string length & Hamming distance  
-- 🧾 **WhatsApp Receipt Bot** – OCR-based system to classify and archive receipts  
-- 🛡️ **Blind SQLi Toolkit** – Time-based SQL injection automation for DB extraction  
-- 📐 **Expression Tree Evaluator** – Object-oriented parser & evaluator for mathematical expressions
-
----
-
-<!-- GitHub Stats removed -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naor-dahan&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=naor-dahan&theme=dark" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naor-dahan&layout=compact&theme=github_dark" height="130"/>
-</p>
-
----
-
-### 📫 Contact
-
-I'm always open to exciting collaborations in the fields of **cybersecurity**, **cryptography**, **algorithmics**, or **theoretical CS**.  
-Feel free to explore my repositories or connect with me here:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naor-meir-dahan/)
-
----
-
-### 📚 Explore My Work
-
-📁 [All My Repositories](https://github.com/Naor-meir?tab=repositories)
-
-#### 🌟 Featured Projects
-- 🔍 [DNS-like Resolver](https://github.com/Naor-meir/DNS-Resolver)
-- 💥 [SIMD Intrinsics](https://github.com/Naor-meir/Simd-Intrinsics)
-- 🧾 [WhatsApp Receipt Bot](https://github.com/Naor-meir/whatsapp-receipt-bot)
-- 🛡️ [Blind SQLi Toolkit](https://github.com/Naor-meir/blind-sqli-toolkit)
-- 📐 [Expression Tree Evaluator](https://github.com/Naor-meir/expression-tree-evaluator)
+- 🔍 [**DNS-like Resolver**](https://github.com/Naor-meir/DNS-Resolver) – Custom UDP-based resolver with caching & A/NS record handling  
+- 💥 [**SIMD Intrinsics**](https://github.com/Naor-meir/Simd-Intrinsics) – SSE4.2-based implementations for string length & Hamming distance  
+- 📐 [**Expression Tree Evaluator**](https://github.com/Naor-meir/expression-tree-evaluator) – Object-oriented parser & evaluator for mathematical expressions  
+- 🔎 [**Parallel Counting Sort**](https://github.com/Naor-meir/Parallel-Counting-Sort) – Parallelized implementation of counting sort with OpenMP and prefix sum
+- 🌐 [**Custom HTTP Server**](https://github.com/Naor-meir/HTTP-Server) – A lightweight HTTP/1.1 server in Python with persistent connections and static file handling

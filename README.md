@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <span style="font-size: 1.2em;">🛠️ Assembly</span>
+  <span style="display:inline-block; vertical-align:middle; margin-left:10px; font-weight:bold; font-size:16px;">🛠️ Assembly</span>
 </p>
 
 #### 🧰 Tools & Platforms
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_Logo.svg" height="40" alt="Wireshark"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark"/>
 </p>
 
 #### 🗃️ Databases
